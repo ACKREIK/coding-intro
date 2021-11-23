@@ -104,3 +104,8 @@ end)
 ```
 
 Done!
+
+
+#### Main Pages  
+[Main Page](https://ackreik.github.io/coding-intro/)   
+[Page List](https://ackreik.github.io/coding-intro/pages/main)  
