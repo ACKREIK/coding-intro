@@ -1,6 +1,9 @@
 
 ## Introduction
-
+Welcome, this is an introduction into Roblox coding the way I would do it.  
+Nothing needs to be done in chronological order but it is recommended.  
+  
+  
 Code is built with a lot of different things, variables, functions, loops, and data streams. Variables are especially important and have many distinct types. The most important of the bunch are Booleans which store true & false, int values that carry numbers, and string values. Inside of normal machine code you can use other scripts functions and components by referencing them.
 
 
@@ -15,7 +18,6 @@ The 10 is a coefficient, and the `val` is a variable, while the HWID is a consta
 ![](https://www.math.net/img/a/algebra/variables/constant/eq.svg)
 
 The four operations you can reference in code are `+`, `-`, `/`, and `*`.
-
 
 
 
