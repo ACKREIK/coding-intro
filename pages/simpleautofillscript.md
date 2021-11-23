@@ -103,8 +103,8 @@ game.Players.PlayerAdded:Connect(function(plr)
 end)
 ```
 
-Done!
-
+Done!  
+The next thing you should do is look at the page list.  
 
 #### Main Pages  
 [Main Page](https://ackreik.github.io/coding-intro/)   
