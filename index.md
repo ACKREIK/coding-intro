@@ -120,4 +120,11 @@ end)
 What that script does it teleport you to your mouse if it is less than 100 studs away.
 
 You have now finished the tutorial! Move onto the
-[Creating Your First Script](https://github.com/ACKREIK/coding-intro/wiki/Simple-AutoFill-Script)
+[Simple Autofill Script](https://ackreik.github.io/coding-intro/pages/simpleautofillscript)
+
+
+
+
+Main Pages
+[Main Page](https://ackreik.github.io/coding-intro/)  
+[Page List](https://ackreik.github.io/coding-intro/pages/main)
