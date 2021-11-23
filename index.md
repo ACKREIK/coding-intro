@@ -125,6 +125,6 @@ You have now finished the tutorial! Move onto the
 
 
 
-Main Pages
-[Main Page](https://ackreik.github.io/coding-intro/)  
-[Page List](https://ackreik.github.io/coding-intro/pages/main)
+#### Main Pages  
+[Main Page](https://ackreik.github.io/coding-intro/)   
+[Page List](https://ackreik.github.io/coding-intro/pages/main)  
